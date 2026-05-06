@@ -5,7 +5,7 @@ An unofficial RSS feed for [Deloitte Insights](https://www.deloitte.com/us/en/in
 ## Feed URL
 
 ```
-https://raw.githubusercontent.com/<your-username>/deloitte-insights-rss/main/deloitte_insights.xml
+https://raw.githubusercontent.com/yushakareem/public-deloitte-insights-rss/refs/heads/main/deloitte_insights.xml
 ```
 
 ## What's in the feed
