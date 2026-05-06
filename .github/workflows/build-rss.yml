@@ -1,0 +1,33 @@
+name: Build RSS Feed
+
+on:
+  schedule:
+    - cron: "0 3 * * *"     # every day at 05:00 Amsterdam (CEST, UTC+2)
+  workflow_dispatch:         # also allow manual run
+
+permissions:
+  contents: write            # needed to commit the XML back
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.12"
+
+      - run: uv run scrape.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add deloitte_insights.xml
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update feed $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
