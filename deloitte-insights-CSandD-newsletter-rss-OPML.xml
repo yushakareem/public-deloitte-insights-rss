@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Deloitte Insights RSS Feed for CSandD Newsletter</title>
+    <dateCreated>Wed, 06 May 2026 00:00:00 GMT</dateCreated>
+    <ownerName>Yusha Kareem</ownerName>
+  </head>
+  <body>
+    <outline title="Deloitte Insights" text="Deloitte Insights" description="" type="rss"
+      xmlUrl="https://raw.githubusercontent.com/yushakareem/public-deloitte-insights-rss/refs/heads/main/deloitte_insights.xml"
+      htmlUrl="https://www.deloitte.com/us/en/insights.html"/>
+  </body>
+</opml>
