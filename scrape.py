@@ -1,10 +1,11 @@
 """Generate an RSS feed from Deloitte Insights."""
+import time
 from datetime import datetime, timezone
 from urllib.parse import urljoin, urlparse, urlunparse
 
 import requests
 from bs4 import BeautifulSoup
-from feedgen.feed import FeedGenerator
+from lxml import etree
 
 SOURCE_URL = "https://www.deloitte.com/us/en/insights.html"
 HEADERS = {
@@ -17,16 +18,36 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
 }
 
-# Content types worth including in the feed
 ALLOWED_CONTENT_TYPES = {"Article", "Collection", "Magazine", "Report", "Brief"}
+
+CONTENT_NS = "http://purl.org/rss/1.0/modules/content/"
+MEDIA_NS = "http://search.yahoo.com/mrss/"
+ATOM_NS = "http://www.w3.org/2005/Atom"
 
 
 def _canonical_url(href: str) -> str:
     """Strip tracking query params and return an absolute URL."""
     full = urljoin(SOURCE_URL, href)
     parsed = urlparse(full)
-    # Drop the query string entirely — Deloitte only uses ?icid= tracking params
     return urlunparse(parsed._replace(query="", fragment=""))
+
+
+def _fetch_og(url: str) -> dict:
+    """Return og:image and og:description from an article page, or {} on failure."""
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=30)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        result = {}
+        for m in soup.find_all("meta"):
+            prop = m.get("property") or ""
+            if prop == "og:image":
+                result["image"] = m.get("content", "")
+            elif prop == "og:description":
+                result["description"] = m.get("content", "")
+        return result
+    except Exception:
+        return {}
 
 
 def fetch_articles() -> list[dict]:
@@ -37,10 +58,6 @@ def fetch_articles() -> list[dict]:
     seen: set[str] = set()
     articles: list[dict] = []
 
-    # Primary selector: anchor tags that carry Deloitte's own promo metadata.
-    # These are the article/card links rendered directly in the page HTML.
-    # The data-promo-name attribute is only present on real content cards,
-    # not on navigation or footer links.
     for a in soup.select("a[data-promo-name][href]"):
         title = a.get("data-promo-name", "").strip()
         content_type = a.get("data-promo-content-type", "").strip()
@@ -48,17 +65,13 @@ def fetch_articles() -> list[dict]:
 
         if not title or not href:
             continue
-
-        # Require a recognised content type; empty means nav/promo links, not articles
         if content_type not in ALLOWED_CONTENT_TYPES:
             continue
 
-        # Skip external links (YouTube, etc.)
         canonical = _canonical_url(href)
         if "deloitte.com" not in canonical:
             continue
 
-        # Skip generic landing pages (no article slug depth)
         path = urlparse(canonical).path
         if path.count("/") < 4:
             continue
@@ -67,7 +80,6 @@ def fetch_articles() -> list[dict]:
             continue
         seen.add(canonical)
 
-        # Pull description, read-time, and thumbnail from child elements
         desc_tag = a.select_one(".cmp-di-promo__content__desc p")
         read_time_tag = a.select_one(".cmp-di-promo__content__read-time")
         s7 = a.select_one(".s7dm-dynamic-media")
@@ -91,47 +103,80 @@ def fetch_articles() -> list[dict]:
             "thumbnail": thumbnail,
         })
 
+    # For articles missing a thumbnail or description, fetch og: tags from the article page
+    needs_og = [art for art in articles if not art["thumbnail"] or not art["description"]]
+    if needs_og:
+        print(f"Fetching og: data for {len(needs_og)} articles...")
+        for art in needs_og:
+            time.sleep(0.5)
+            og = _fetch_og(art["url"])
+            if not art["thumbnail"] and og.get("image"):
+                art["thumbnail"] = og["image"]
+            if not art["description"] and og.get("description"):
+                art["description"] = og["description"]
+
     return articles
 
 
-def build_feed(articles: list[dict]) -> FeedGenerator:
-    fg = FeedGenerator()
-    fg.id(SOURCE_URL)
-    fg.title("Deloitte Insights")
-    fg.link(href=SOURCE_URL, rel="alternate")
-    fg.description("Latest Deloitte Insights articles (unofficial feed)")
-    fg.language("en")
-    fg.lastBuildDate(datetime.now(timezone.utc))
+def build_feed(articles: list[dict]) -> bytes:
+    nsmap = {
+        "content": CONTENT_NS,
+        "media": MEDIA_NS,
+        "atom": ATOM_NS,
+    }
+
+    rss = etree.Element("rss", attrib={"version": "2.0"}, nsmap=nsmap)
+    channel = etree.SubElement(rss, "channel")
+
+    etree.SubElement(channel, "title").text = "Deloitte Insights"
+    etree.SubElement(channel, "link").text = SOURCE_URL
+    etree.SubElement(channel, "description").text = "Latest Deloitte Insights articles (unofficial feed)"
+    etree.SubElement(channel, "language").text = "en"
+    etree.SubElement(channel, "lastBuildDate").text = (
+        datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+    )
 
     for art in articles:
-        fe = fg.add_entry()
-        fe.id(art["url"])
-        fe.title(art["title"])
-        fe.link(href=art["url"])
-        fe.guid(art["url"], permalink=True)
+        item = etree.SubElement(channel, "item")
+        etree.SubElement(item, "title").text = art["title"]
+        etree.SubElement(item, "link").text = art["url"]
+        guid = etree.SubElement(item, "guid", attrib={"isPermaLink": "true"})
+        guid.text = art["url"]
 
-        # Build an HTML description: thumbnail image + meta line + summary text
-        parts = []
+        # Plain text <description> — safe fallback for basic readers
+        plain_parts = []
         if art["content_type"]:
-            parts.append(art["content_type"])
+            plain_parts.append(art["content_type"])
         if art["read_time"]:
-            parts.append(art["read_time"])
-        meta = " • ".join(parts)
+            plain_parts.append(art["read_time"])
+        if art["description"]:
+            plain_parts.append(art["description"])
+        etree.SubElement(item, "description").text = " • ".join(plain_parts)
 
+        # <content:encoded> — CDATA HTML rendered by newsletter tools
         html_parts = []
         if art["thumbnail"]:
-            html_parts.append(
-                f'<img src="{art["thumbnail"]}" alt="" style="max-width:100%"/>'
-            )
-        if meta:
-            html_parts.append(f"<p><em>{meta}</em></p>")
+            html_parts.append(f'<img src="{art["thumbnail"]}" alt="" style="max-width:100%"/>')
+        meta_parts = []
+        if art["content_type"]:
+            meta_parts.append(art["content_type"])
+        if art["read_time"]:
+            meta_parts.append(art["read_time"])
+        if meta_parts:
+            html_parts.append(f'<p><em>{" • ".join(meta_parts)}</em></p>')
         if art["description"]:
-            html_parts.append(f"<p>{art['description']}</p>")
-
+            html_parts.append(f'<p>{art["description"]}</p>')
         if html_parts:
-            fe.description("".join(html_parts))
+            encoded = etree.SubElement(item, f"{{{CONTENT_NS}}}encoded")
+            encoded.text = etree.CDATA("".join(html_parts))
 
-    return fg
+        # <media:thumbnail> — dedicated image slot used by newsletter card previews
+        if art["thumbnail"]:
+            etree.SubElement(
+                item, f"{{{MEDIA_NS}}}thumbnail", attrib={"url": art["thumbnail"]}
+            )
+
+    return etree.tostring(rss, pretty_print=True, xml_declaration=True, encoding="UTF-8")
 
 
 if __name__ == "__main__":
@@ -139,10 +184,10 @@ if __name__ == "__main__":
     print(f"Found {len(articles)} articles")
     for art in articles:
         ctype = f"[{art['content_type']}]" if art["content_type"] else ""
-        rt = art["read_time"]
         thumb = "✓ thumbnail" if art["thumbnail"] else "no thumbnail"
-        print(f"  {ctype} {art['title']!r} ({rt}) [{thumb}]")
+        desc = "✓ description" if art["description"] else "no description"
+        print(f"  {ctype} {art['title']!r} ({art['read_time']}) [{thumb}] [{desc}]")
         print(f"    {art['url']}")
-    fg = build_feed(articles)
-    fg.rss_file("deloitte_insights.xml", pretty=True)
+    with open("deloitte_insights.xml", "wb") as f:
+        f.write(build_feed(articles))
     print("\nWrote deloitte_insights.xml")

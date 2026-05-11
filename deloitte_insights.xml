@@ -1,174 +1,218 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Deloitte Insights</title>
     <link>https://www.deloitte.com/us/en/insights.html</link>
     <description>Latest Deloitte Insights articles (unofficial feed)</description>
-    <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 06:40:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 10:23:00 +0000</lastBuildDate>
     <item>
-      <title>2026 Digital Media Trends: Capturing always-on fandom between releases and seasons</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey.html</link>
-      <description>&lt;p&gt;&lt;em&gt;Article • 11-min read&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey.html</guid>
-    </item>
-    <item>
-      <title>2026 Life Sciences and Health Care Industry Outlooks</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/health-care/life-sciences-and-health-care-industry-outlooks.html</link>
-      <description>&lt;p&gt;&lt;em&gt;Collection&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/health-care/life-sciences-and-health-care-industry-outlooks.html</guid>
-    </item>
-    <item>
-      <title>Government's Future Frontiers</title>
-      <link>https://www.deloitte.com/us/en/insights/multimedia/podcasts/governments-leadership-future-frontiers-podcast.html</link>
-      <description>&lt;p&gt;&lt;em&gt;Collection&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/multimedia/podcasts/governments-leadership-future-frontiers-podcast.html</guid>
-    </item>
-    <item>
-      <title>2026 financial services industry outlooks</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks.html</link>
-      <description>&lt;p&gt;&lt;em&gt;Collection&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks.html</guid>
-    </item>
-    <item>
-      <title>2026 Energy, Resources, and Industrials Outlooks</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/energy-resources-industrials/energy-resources-industrials-industry-outlooks.html</link>
-      <description>&lt;p&gt;&lt;em&gt;Collection&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/energy-resources-industrials/energy-resources-industrials-industry-outlooks.html</guid>
-    </item>
-    <item>
-      <title>ConsumerSignals collection</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/retail-distribution/covid-19-state-of-the-consumer.html</link>
-      <description>&lt;p&gt;&lt;em&gt;Collection&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/retail-distribution/covid-19-state-of-the-consumer.html</guid>
-    </item>
-    <item>
-      <title>Weekly Global Economic Update</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html</link>
-      <description>&lt;p&gt;&lt;em&gt;Article • 7-min read&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html</guid>
-    </item>
-    <item>
-      <title>Has the CISO finally been accepted as a key strategic player?</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/ciso-and-cybersecurity-strategy.html</link>
-      <description>&lt;p&gt;&lt;em&gt;Article • 3-min read&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/ciso-and-cybersecurity-strategy.html</guid>
-    </item>
-    <item>
-      <title>Generative AI in Asia Pacific: Young employees lead as employers play catch-up</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/emerging-technologies/generative-ai-adoption-asia-pacific-region.html</link>
-      <description>&lt;p&gt;&lt;em&gt;Article • 25-min read&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/emerging-technologies/generative-ai-adoption-asia-pacific-region.html</guid>
-    </item>
-    <item>
-      <title>Better questions about generative AI</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/emerging-technologies/better-questions-about-generative-ai.html</link>
-      <description>&lt;p&gt;&lt;em&gt;Article • 2-min read&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/emerging-technologies/better-questions-about-generative-ai.html</guid>
-    </item>
-    <item>
-      <title>Designing for growth in the C-suite</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/designing-for-growth-in-the-c-suite.html</link>
-      <description>&lt;p&gt;&lt;em&gt;Article • 8-min read&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/designing-for-growth-in-the-c-suite.html</guid>
-    </item>
-    <item>
-      <title>Predicting the unpredictable: How will technology change the future of work?</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/talent/rethinking-future-of-work-models-to-predict-the-unpredictable.html</link>
-      <description>&lt;p&gt;&lt;em&gt;Article • 20-min read&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/rethinking-future-of-work-models-to-predict-the-unpredictable.html</guid>
-    </item>
-    <item>
-      <title>Gen Zs and millennials at work: Pursuing a balance of money, meaning, and well-being</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/talent/2025-gen-z-millennial-survey.html</link>
-      <description>&lt;img src="https://media.deloitte.com/is/image/deloitte/US188057_Banner-1920x880?fmt=webp&amp;wid=640" alt="" style="max-width:100%"/&gt;&lt;p&gt;&lt;em&gt;Article • 11-min read&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/2025-gen-z-millennial-survey.html</guid>
-    </item>
-    <item>
-      <title>State of the US Consumer: April–May 2026</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/economy/consumer-pulse/state-of-the-us-consumer.html</link>
-      <description>&lt;img src="https://media.deloitte.com/is/image/deloitte/consumer-tracker-collection-1?fmt=webp&amp;wid=640" alt="" style="max-width:100%"/&gt;&lt;p&gt;&lt;em&gt;Article • 3-min read&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/consumer-pulse/state-of-the-us-consumer.html</guid>
-    </item>
-    <item>
-      <title>Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/talent/future-of-workforce-planning/autonomous-workforce-planning.html</link>
-      <description>&lt;img src="https://media.deloitte.com/is/image/deloitte/US188531_Banner-1920x880?fmt=webp&amp;wid=640" alt="" style="max-width:100%"/&gt;&lt;p&gt;&lt;em&gt;Article • 13-min read&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/future-of-workforce-planning/autonomous-workforce-planning.html</guid>
-    </item>
-    <item>
-      <title>SaaS meets AI agents: Transforming budgets, customer experience, and workforce dynamics</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/saas-ai-agents.html</link>
-      <description>&lt;img src="https://media.deloitte.com/is/image/deloitte/US188437_Banner-1920x880?fmt=webp&amp;wid=640" alt="" style="max-width:100%"/&gt;&lt;p&gt;&lt;em&gt;Article • 10-min read&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/saas-ai-agents.html</guid>
-    </item>
-    <item>
-      <title>Japan’s fragile recovery meets rising oil prices</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/economy/asia-pacific/japan-economic-outlook.html</link>
-      <description>&lt;img src="https://media.deloitte.com/is/image/deloitte/Japan_Banner-1920x880?fmt=webp&amp;wid=640" alt="" style="max-width:100%"/&gt;&lt;p&gt;&lt;em&gt;Article • 7-min read&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/asia-pacific/japan-economic-outlook.html</guid>
-    </item>
-    <item>
-      <title>US Economic Forecast Q1 2026</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html</link>
-      <description>&lt;img src="https://media.deloitte.com/is/image/deloitte/US188405_Banner-1920x880?fmt=webp&amp;wid=640" alt="" style="max-width:100%"/&gt;&lt;p&gt;&lt;em&gt;Article • 10-min read&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html</guid>
-    </item>
-    <item>
-      <title>AI and the future of human decision-making</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2026/decision-making-with-ai.html</link>
-      <description>&lt;img src="https://media.deloitte.com/is/image/deloitte/US188560_Banner-1920x880?fmt=webp&amp;wid=640" alt="" style="max-width:100%"/&gt;&lt;p&gt;&lt;em&gt;Article • 9-min read&lt;/em&gt;&lt;/p&gt;&lt;p&gt;AI is changing how decisions get made. How can leaders design decision making with AI that protects human agency, trust, and accountability?&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2026/decision-making-with-ai.html</guid>
-    </item>
-    <item>
-      <title>Business and IT leaders report AI agents are scaling faster than their guardrails</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/emerging-technologies/ai-agents-scaling-faster.html</link>
-      <description>&lt;img src="https://media.deloitte.com/is/image/deloitte/GLOB189008_Banner-1920x880?fmt=webp&amp;wid=640" alt="" style="max-width:100%"/&gt;&lt;p&gt;&lt;em&gt;Article • 2-min read&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Only 21% of enterprises responding to a recent multicountry Deloitte survey report having mature governance in place to manage the risks of agentic AI&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/emerging-technologies/ai-agents-scaling-faster.html</guid>
-    </item>
-    <item>
-      <title>Rethinking skills-based talent models: 4 paths to business value</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/talent/creating-value-with-skills.html</link>
-      <description>&lt;img src="https://media.deloitte.com/is/image/deloitte/AMER188998_Banner-1920x880?fmt=webp&amp;wid=640" alt="" style="max-width:100%"/&gt;&lt;p&gt;&lt;em&gt;Article • 15-min read&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Most skills-based talent strategies don’t deliver value. See how leading organizations connect ROI and skills by starting with outcomes—not just skills.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/creating-value-with-skills.html</guid>
-    </item>
-    <item>
-      <title>The dual mandate redefining the future of tech leadership</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/future-of-tech-leadership.html</link>
-      <description>&lt;img src="https://media.deloitte.com/is/image/deloitte/AMER189009_Banner-1920x880?fmt=webp&amp;wid=640" alt="" style="max-width:100%"/&gt;&lt;p&gt;&lt;em&gt;Article • 8-min read&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As AI raises expectations across the business, tech leaders face a dual mandate: combine deep technical fluency with enterprise-wide leadership&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/future-of-tech-leadership.html</guid>
-    </item>
-    <item>
-      <title>Deloitte Insights Magazine, issue 33</title>
-      <link>https://www.deloitte.com/us/en/insights/deloitte-insights-magazine.html</link>
-      <description>&lt;img src="https://media.deloitte.com/is/image/deloitte/glob187719-banner?fmt=webp&amp;wid=640" alt="" style="max-width:100%"/&gt;&lt;p&gt;&lt;em&gt;Article&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/deloitte-insights-magazine.html</guid>
-    </item>
-    <item>
-      <title>TMT Predictions 2026</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html</link>
-      <description>&lt;img src="https://media.deloitte.com/is/image/deloitte/CA188454_Banner-1920x880?fmt=webp&amp;wid=640" alt="" style="max-width:100%"/&gt;&lt;p&gt;&lt;em&gt;Article • 9-min read&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html</guid>
-    </item>
-    <item>
-      <title>2026 Industry outlooks</title>
-      <link>https://www.deloitte.com/us/en/industries/industry-outlooks.html</link>
-      <description>&lt;img src="https://media.deloitte.com/is/image/deloitte/US188394_Banner-1920x880?fmt=webp&amp;wid=640" alt="" style="max-width:100%"/&gt;&lt;p&gt;&lt;em&gt;Collection&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/industries/industry-outlooks.html</guid>
+      <title>2026 Global Human Capital Trends</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html</guid>
+      <description>Article • 9-min read • Our 2026 survey reveals a shift from tensions to tipping points. What intentional choices can organizations make to adapt continuously, move with speed, and lead with a human edge?</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188555_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 9-min read</em></p><p>Our 2026 survey reveals a shift from tensions to tipping points. What intentional choices can organizations make to adapt continuously, move with speed, and lead with a human edge?</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188555_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
       <title>Tech Trends 2026</title>
       <link>https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends.html</link>
-      <description>&lt;img src="https://media.deloitte.com/is/image/deloitte/US188546_Banner-1920x880-5?fmt=webp&amp;wid=640" alt="" style="max-width:100%"/&gt;&lt;p&gt;&lt;em&gt;Article • 4-min read&lt;/em&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends.html</guid>
+      <description>Article • 4-min read • As technology innovation and adoption accelerate, five trends reveal how successful organizations are moving from experimentation to impact</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188546_Banner-1920x880-5?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 4-min read</em></p><p>As technology innovation and adoption accelerate, five trends reveal how successful organizations are moving from experimentation to impact</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188546_Banner-1920x880-5?fmt=webp&amp;wid=640"/>
     </item>
     <item>
-      <title>2026 Global Human Capital Trends</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html</link>
-      <description>&lt;img src="https://media.deloitte.com/is/image/deloitte/US188555_Banner-1920x880?fmt=webp&amp;wid=640" alt="" style="max-width:100%"/&gt;&lt;p&gt;&lt;em&gt;Article • 9-min read&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html</guid>
+      <title>2026 Industry outlooks</title>
+      <link>https://www.deloitte.com/us/en/industries/industry-outlooks.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/industries/industry-outlooks.html</guid>
+      <description>Collection • Uncover key trends, challenges, opportunities and actionable insights to impact your industry, influence your strategy, and shape your business in the coming year. </description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188394_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Collection</em></p><p>Uncover key trends, challenges, opportunities and actionable insights to impact your industry, influence your strategy, and shape your business in the coming year. </p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188394_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>TMT Predictions 2026</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html</guid>
+      <description>Article • 9-min read • Deloitte predicts 2026 will see the gap between the promise and reality of AI narrow, as further movements towards getting it to scale are made</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/CA188454_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 9-min read</em></p><p>Deloitte predicts 2026 will see the gap between the promise and reality of AI narrow, as further movements towards getting it to scale are made</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/CA188454_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>Deloitte Insights Magazine, issue 33</title>
+      <link>https://www.deloitte.com/us/en/insights/deloitte-insights-magazine.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/deloitte-insights-magazine.html</guid>
+      <description>Article • Deloitte’s latest proprietary research and insights to help move the AI conversation forward, offering fresh perspectives and foresight on what those organizational and economic impacts might be</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/glob187719-banner?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article</em></p><p>Deloitte’s latest proprietary research and insights to help move the AI conversation forward, offering fresh perspectives and foresight on what those organizational and economic impacts might be</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/glob187719-banner?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>Business and IT leaders report AI agents are scaling faster than their guardrails</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/emerging-technologies/ai-agents-scaling-faster.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/emerging-technologies/ai-agents-scaling-faster.html</guid>
+      <description>Article • 2-min read • Only 21% of enterprises responding to a recent multicountry Deloitte survey report having mature governance in place to manage the risks of agentic AI</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/GLOB189008_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 2-min read</em></p><p>Only 21% of enterprises responding to a recent multicountry Deloitte survey report having mature governance in place to manage the risks of agentic AI</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/GLOB189008_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>The dual mandate redefining the future of tech leadership</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/future-of-tech-leadership.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/future-of-tech-leadership.html</guid>
+      <description>Article • 8-min read • As AI raises expectations across the business, tech leaders face a dual mandate: combine deep technical fluency with enterprise-wide leadership</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/AMER189009_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 8-min read</em></p><p>As AI raises expectations across the business, tech leaders face a dual mandate: combine deep technical fluency with enterprise-wide leadership</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/AMER189009_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>Rethinking skills-based talent models: 4 paths to business value</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/talent/creating-value-with-skills.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/creating-value-with-skills.html</guid>
+      <description>Article • 15-min read • Most skills-based talent strategies don’t deliver value. See how leading organizations connect ROI and skills by starting with outcomes—not just skills.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/AMER188998_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 15-min read</em></p><p>Most skills-based talent strategies don’t deliver value. See how leading organizations connect ROI and skills by starting with outcomes—not just skills.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/AMER188998_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>Dealing with AI’s cultural debt</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2026/ai-cultural-debt.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2026/ai-cultural-debt.html</guid>
+      <description>Article • 10-min read • AI may be changing work faster than organizational culture can keep up. The hidden risk: growing cultural debt.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188562_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 10-min read</em></p><p>AI may be changing work faster than organizational culture can keep up. The hidden risk: growing cultural debt.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188562_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>State of the US Consumer: April–May 2026</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/economy/consumer-pulse/state-of-the-us-consumer.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/consumer-pulse/state-of-the-us-consumer.html</guid>
+      <description>Article • 3-min read • Inflation expectations reignite, but consumers are still spending</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/consumer-tracker-collection-1?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 3-min read</em></p><p>Inflation expectations reignite, but consumers are still spending</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/consumer-tracker-collection-1?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>US Economic Forecast Q1 2026</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html</guid>
+      <description>Article • 10-min read • AI investments can drive near-term economic momentum, but non-AI businesses and households are poised to face significant pressures from geopolitical conflicts and uncertainty</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188405_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 10-min read</em></p><p>AI investments can drive near-term economic momentum, but non-AI businesses and households are poised to face significant pressures from geopolitical conflicts and uncertainty</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188405_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>Japan’s fragile recovery meets rising oil prices</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/economy/asia-pacific/japan-economic-outlook.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/asia-pacific/japan-economic-outlook.html</guid>
+      <description>Article • 7-min read • The benefits of a weak yen might be offset by the recent rise in oil prices, as Japan grapples with early signs of labor-market weakness and energy-use recalibrations</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/Japan_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 7-min read</em></p><p>The benefits of a weak yen might be offset by the recent rise in oil prices, as Japan grapples with early signs of labor-market weakness and energy-use recalibrations</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/Japan_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>Cutting through the noise: Tech signals worth tracking as AI advances</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/2026-technology-signals.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/2026-technology-signals.html</guid>
+      <description>Article • 6-min read • What are the smaller technology trends—the tremors ahead of seismic shifts? From neuromorphic computing to edge AI, these are areas worth keeping an eye on.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188552_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 6-min read</em></p><p>What are the smaller technology trends—the tremors ahead of seismic shifts? From neuromorphic computing to edge AI, these are areas worth keeping an eye on.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188552_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>Unlocking exponential value with AI agent orchestration</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/ai-agent-orchestration.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/ai-agent-orchestration.html</guid>
+      <description>Article • 9-min read • AI agents will likely require orchestration for intelligent automation. Open source, proprietary communication protocols will compete to lead the way.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/IN188438_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 9-min read</em></p><p>AI agents will likely require orchestration for intelligent automation. Open source, proprietary communication protocols will compete to lead the way.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/IN188438_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>Predicting the unpredictable: How will technology change the future of work?</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/talent/rethinking-future-of-work-models-to-predict-the-unpredictable.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/rethinking-future-of-work-models-to-predict-the-unpredictable.html</guid>
+      <description>Article • 20-min read • How will technology change the future of work? It depends on the decisions we make and our ability to see beyond them.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/au164540-c4e-predicting-the-unpredictable-social:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 20-min read</em></p><p>How will technology change the future of work? It depends on the decisions we make and our ability to see beyond them.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/au164540-c4e-predicting-the-unpredictable-social:1200-x-627"/>
+    </item>
+    <item>
+      <title>Designing for growth in the C-suite</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/designing-for-growth-in-the-c-suite.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/designing-for-growth-in-the-c-suite.html</guid>
+      <description>Article • 8-min read • An analysis of over 46,000 job postings reveals that a focus on quantitative expertise may be the key to designing for growth in the C-suite</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/us177077-social:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 8-min read</em></p><p>An analysis of over 46,000 job postings reveals that a focus on quantitative expertise may be the key to designing for growth in the C-suite</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/us177077-social:1200-x-627"/>
+    </item>
+    <item>
+      <title>Better questions about generative AI</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/emerging-technologies/better-questions-about-generative-ai.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/emerging-technologies/better-questions-about-generative-ai.html</guid>
+      <description>Article • 2-min read • Four scholars share critical questions leaders should be asking about generative AI, from concerns about bias to existential considerations about human values</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US187723_Social:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 2-min read</em></p><p>Four scholars share critical questions leaders should be asking about generative AI, from concerns about bias to existential considerations about human values</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US187723_Social:1200-x-627"/>
+    </item>
+    <item>
+      <title>Generative AI in Asia Pacific: Young employees lead as employers play catch-up</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/emerging-technologies/generative-ai-adoption-asia-pacific-region.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/emerging-technologies/generative-ai-adoption-asia-pacific-region.html</guid>
+      <description>Article • 25-min read • As younger employees drive generative AI adoption, a survey of 11,900+ individuals highlights new challenges and opportunities for employers adapting to this shift.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/apac187146-social:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 25-min read</em></p><p>As younger employees drive generative AI adoption, a survey of 11,900+ individuals highlights new challenges and opportunities for employers adapting to this shift.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/apac187146-social:1200-x-627"/>
+    </item>
+    <item>
+      <title>Has the CISO finally been accepted as a key strategic player?</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/ciso-and-cybersecurity-strategy.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/ciso-and-cybersecurity-strategy.html</guid>
+      <description>Article • 3-min read • Why was there a surge in CISOs' strategic involvement in business-critical technology conversations last year?</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188100_Banner_social:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 3-min read</em></p><p>Why was there a surge in CISOs' strategic involvement in business-critical technology conversations last year?</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188100_Banner_social:1200-x-627"/>
+    </item>
+    <item>
+      <title>Weekly Global Economic Update</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html</guid>
+      <description>Article • 7-min read • What’s happening this week in economics? Deloitte’s team of economists examines news and trends from around the world.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/weekly-econ-collection-1:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 7-min read</em></p><p>What’s happening this week in economics? Deloitte’s team of economists examines news and trends from around the world.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/weekly-econ-collection-1:1200-x-627"/>
+    </item>
+    <item>
+      <title>ConsumerSignals collection</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/retail-distribution/covid-19-state-of-the-consumer.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/retail-distribution/covid-19-state-of-the-consumer.html</guid>
+      <description>Collection • We examine the implications of consumers' changing priorities and preferences, purchase behaviors, and spending patterns in a postpandemic world.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US176845_Banner-1920x880-1:1200-x-627" alt="" style="max-width:100%"/><p><em>Collection</em></p><p>We examine the implications of consumers' changing priorities and preferences, purchase behaviors, and spending patterns in a postpandemic world.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US176845_Banner-1920x880-1:1200-x-627"/>
+    </item>
+    <item>
+      <title>2026 Energy, Resources, and Industrials Outlooks</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/energy-resources-industrials/energy-resources-industrials-industry-outlooks.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/energy-resources-industrials/energy-resources-industrials-industry-outlooks.html</guid>
+      <description>Collection • Explore the key trends likely to impact the oil and gas, chemicals, power and utilities, renewables, aerospace and defense, manufacturing, and engineering and construction sectors in 2026, in our latest energy, resources, and industrials outlooks</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188559_Social:1200-x-627" alt="" style="max-width:100%"/><p><em>Collection</em></p><p>Explore the key trends likely to impact the oil and gas, chemicals, power and utilities, renewables, aerospace and defense, manufacturing, and engineering and construction sectors in 2026, in our latest energy, resources, and industrials outlooks</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188559_Social:1200-x-627"/>
+    </item>
+    <item>
+      <title>2026 financial services industry outlooks</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks.html</guid>
+      <description>Collection • A guide to help you navigate what’s next and lead the industry forward in a time of extraordinary technological disruption, shifting customer expectations, regulatory complexity, and dynamic competition.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188553_Social:1200-x-627" alt="" style="max-width:100%"/><p><em>Collection</em></p><p>A guide to help you navigate what’s next and lead the industry forward in a time of extraordinary technological disruption, shifting customer expectations, regulatory complexity, and dynamic competition.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188553_Social:1200-x-627"/>
+    </item>
+    <item>
+      <title>Government's Future Frontiers</title>
+      <link>https://www.deloitte.com/us/en/insights/multimedia/podcasts/governments-leadership-future-frontiers-podcast.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/multimedia/podcasts/governments-leadership-future-frontiers-podcast.html</guid>
+      <description>Collection • Big societal problems require new kinds of solutions that draw from the strengths of the public, private and not-for-profit sectors.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/GLOB176878_Banner_1920x630:1200-x-627" alt="" style="max-width:100%"/><p><em>Collection</em></p><p>Big societal problems require new kinds of solutions that draw from the strengths of the public, private and not-for-profit sectors.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/GLOB176878_Banner_1920x630:1200-x-627"/>
+    </item>
+    <item>
+      <title>2026 Life Sciences and Health Care Industry Outlooks</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/health-care/life-sciences-and-health-care-industry-outlooks.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/health-care/life-sciences-and-health-care-industry-outlooks.html</guid>
+      <description>Collection • Get insights on 2026 health care and life sciences to see how leaders are driving growth, tech adoption, and resilience in a changing global landscape</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/null:1200-x-627" alt="" style="max-width:100%"/><p><em>Collection</em></p><p>Get insights on 2026 health care and life sciences to see how leaders are driving growth, tech adoption, and resilience in a changing global landscape</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/null:1200-x-627"/>
+    </item>
+    <item>
+      <title>2026 Digital Media Trends: Capturing always-on fandom between releases and seasons</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey.html</guid>
+      <description>Article • 11-min read • To boost retention and monetize fan engagement, owners of strong fandoms could host year-round social content, shopping, and exclusive experiences in their own environments</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/AMER188918_Social:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 11-min read</em></p><p>To boost retention and monetize fan engagement, owners of strong fandoms could host year-round social content, shopping, and exclusive experiences in their own environments</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/AMER188918_Social:1200-x-627"/>
     </item>
   </channel>
 </rss>
