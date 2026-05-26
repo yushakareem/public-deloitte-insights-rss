@@ -5,7 +5,7 @@
     <link>https://www.deloitte.com/us/en/insights.html</link>
     <description>Latest Deloitte Insights articles (unofficial feed)</description>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 07:15:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 06:48:17 +0000</lastBuildDate>
     <item>
       <title>2026 Global Human Capital Trends</title>
       <link>https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html</link>
@@ -47,19 +47,43 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/glob187719-banner?fmt=webp&amp;wid=640"/>
     </item>
     <item>
-      <title>The orchestration advantage</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2026/orchestrating-for-agility.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2026/orchestrating-for-agility.html</guid>
-      <description>Article • 10-min read • Is your operating model built to adapt at speed and scale? See how orchestration and organizational agility are becoming a source of competitive advantage.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188556_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 10-min read</em></p><p>Is your operating model built to adapt at speed and scale? See how orchestration and organizational agility are becoming a source of competitive advantage.</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188556_Banner-1920x880?fmt=webp&amp;wid=640"/>
+      <title>FSI Predictions 2026</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions.html</guid>
+      <description>Article • 6-min read • Discover emerging developments and trends shaping the financial services industry in 2026.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188535_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 6-min read</em></p><p>Discover emerging developments and trends shaping the financial services industry in 2026.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188535_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>Flight or fold: 2026 Deloitte Summer Travel Survey</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/transportation/2026-summer-travel-trends-survey.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/transportation/2026-summer-travel-trends-survey.html</guid>
+      <description>Article • 3-min read • Deloitte's 2026 Summer Travel Survey finds that rising travel costs are reshaping summer plans, sidelining some travelers while pushing determined vacationers to spend more to get away.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188961_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 3-min read</em></p><p>Deloitte's 2026 Summer Travel Survey finds that rising travel costs are reshaping summer plans, sidelining some travelers while pushing determined vacationers to spend more to get away.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188961_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>When frontier AI models outpace cyber remediation: Banking's new security challenge</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/financial-services/banking-frontier-ai-models.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/financial-services/banking-frontier-ai-models.html</guid>
+      <description>Article • 6-min read • AI has accelerated banks’ ability to identify cybersecurity vulnerabilities. Here are four ways to mitigate cyber threats at machine speed.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189137_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 6-min read</em></p><p>AI has accelerated banks’ ability to identify cybersecurity vulnerabilities. Here are four ways to mitigate cyber threats at machine speed.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189137_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>What skills might boards need as tectonic shifts reshape the business landscape?</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/leadership/board-composition-skill-needs.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/leadership/board-composition-skill-needs.html</guid>
+      <description>Article • 2-min read • Many of the largest US-based companies’ boards are led by execs with traditional leadership backgrounds. Could other capabilities strengthen this mix?</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/AMER189141_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 2-min read</em></p><p>Many of the largest US-based companies’ boards are led by execs with traditional leadership backgrounds. Could other capabilities strengthen this mix?</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/AMER189141_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
       <title>The dual mandate redefining the future of tech leadership</title>
       <link>https://www.deloitte.com/us/en/insights/topics/technology-management/future-of-tech-leadership.html</link>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/future-of-tech-leadership.html</guid>
-      <description>Article • 8-min read • As AI raises expectations across the business, tech leaders face a dual mandate: combine deep technical fluency with enterprise-wide leadership</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/AMER189009_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 8-min read</em></p><p>As AI raises expectations across the business, tech leaders face a dual mandate: combine deep technical fluency with enterprise-wide leadership</p>]]></content:encoded>
+      <description>Article • 8-min read • AI is reshaping the future of tech leadership as leaders balance the need for deep expertise with enterprise impact to drive value</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/AMER189009_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 8-min read</em></p><p>AI is reshaping the future of tech leadership as leaders balance the need for deep expertise with enterprise impact to drive value</p>]]></content:encoded>
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/AMER189009_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
@@ -74,8 +98,8 @@
       <title>Rethinking skills-based talent models: 4 paths to business value</title>
       <link>https://www.deloitte.com/us/en/insights/topics/talent/creating-value-with-skills.html</link>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/creating-value-with-skills.html</guid>
-      <description>Article • 15-min read • Most skills-based talent strategies don’t deliver value. See how leading organizations connect ROI and skills by starting with outcomes—not just skills.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/AMER188998_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 15-min read</em></p><p>Most skills-based talent strategies don’t deliver value. See how leading organizations connect ROI and skills by starting with outcomes—not just skills.</p>]]></content:encoded>
+      <description>Article • 15-min read • Skills-based models can fall short if they aren’t anchored to clear outcomes. Deloitte research highlights actions that can help translate skills investments into measurable value.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/AMER188998_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 15-min read</em></p><p>Skills-based models can fall short if they aren’t anchored to clear outcomes. Deloitte research highlights actions that can help translate skills investments into measurable value.</p>]]></content:encoded>
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/AMER188998_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
@@ -85,46 +109,6 @@
       <description>Article • 3-min read • Inflation expectations reignite, but consumers are still spending</description>
       <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/consumer-tracker-collection-1?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 3-min read</em></p><p>Inflation expectations reignite, but consumers are still spending</p>]]></content:encoded>
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/consumer-tracker-collection-1?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>US Economic Forecast Q1 2026</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html</guid>
-      <description>Article • 10-min read • AI investments can drive near-term economic momentum, but non-AI businesses and households are poised to face significant pressures from geopolitical conflicts and uncertainty</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188405_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 10-min read</em></p><p>AI investments can drive near-term economic momentum, but non-AI businesses and households are poised to face significant pressures from geopolitical conflicts and uncertainty</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188405_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>Japan’s fragile recovery meets rising oil prices</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/economy/asia-pacific/japan-economic-outlook.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/asia-pacific/japan-economic-outlook.html</guid>
-      <description>Article • 7-min read • The benefits of a weak yen might be offset by the recent rise in oil prices, as Japan grapples with early signs of labor-market weakness and energy-use recalibrations</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/Japan_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 7-min read</em></p><p>The benefits of a weak yen might be offset by the recent rise in oil prices, as Japan grapples with early signs of labor-market weakness and energy-use recalibrations</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/Japan_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>New technologies and familiar challenges could make semiconductor supply chains more fragile</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/new-supply-chain-tech.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/new-supply-chain-tech.html</guid>
-      <description>Article • 9-min read • With escalating trade restrictions on critical next-gen AI chip technologies, leaders should adapt quickly to make supply chains more resilient</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/IN188443_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 9-min read</em></p><p>With escalating trade restrictions on critical next-gen AI chip technologies, leaders should adapt quickly to make supply chains more resilient</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/IN188443_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>Gen Zs and millennials at work</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/talent/2025-gen-z-millennial-survey.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/2025-gen-z-millennial-survey.html</guid>
-      <description>Article • 11-min read • What’s driving the next generation of business leaders? Deloitte Global’s 2025 Gen Z and millennial survey shows they’re prioritizing mentorship, meaning, and financial security.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188057_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 11-min read</em></p><p>What’s driving the next generation of business leaders? Deloitte Global’s 2025 Gen Z and millennial survey shows they’re prioritizing mentorship, meaning, and financial security.</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188057_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>AI, demographic shifts, and agility: Preparing for the next workforce evolution</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/talent/strategies-for-workforce-evolution.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/strategies-for-workforce-evolution.html</guid>
-      <description>Article • 16-min read • A Deloitte survey reveals how AI and human collaboration can help close talent gaps, speed upskilling, and transfer knowledge as demographic changes reshape the workforce</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188106_banner_1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 16-min read</em></p><p>A Deloitte survey reveals how AI and human collaboration can help close talent gaps, speed upskilling, and transfer knowledge as demographic changes reshape the workforce</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188106_banner_1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
       <title>Predicting the unpredictable: How will technology change the future of work?</title>
