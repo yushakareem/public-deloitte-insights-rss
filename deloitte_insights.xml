@@ -5,7 +5,7 @@
     <link>https://www.deloitte.com/us/en/insights.html</link>
     <description>Latest Deloitte Insights articles (unofficial feed)</description>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 08:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 06:56:28 +0000</lastBuildDate>
     <item>
       <title>2026 Global Human Capital Trends</title>
       <link>https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html</link>
@@ -47,12 +47,52 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/glob187719-banner?fmt=webp&amp;wid=640"/>
     </item>
     <item>
+      <title>Quantum computing is coming. How to reduce expensive guesswork to build business value now</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/quantum-computing-readiness.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/quantum-computing-readiness.html</guid>
+      <description>Article • 10-min read • Quantum-inspired methods can bring tangible business value today and build readiness to utilize future quantum computers when they become available. Here’s how.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189196_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 10-min read</em></p><p>Quantum-inspired methods can bring tangible business value today and build readiness to utilize future quantum computers when they become available. Here’s how.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189196_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>The $9 trillion knowledge exodus: How organizations can turn baby boomer retirements into a competitive advantage</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/talent/knowledge-management-plan.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/knowledge-management-plan.html</guid>
+      <description>Article • 8-min read • Baby boomer retirements are here. Is your organization ready to capture critical knowledge before it walks out the door?</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188596_Banner-1920x880-1?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 8-min read</em></p><p>Baby boomer retirements are here. Is your organization ready to capture critical knowledge before it walks out the door?</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188596_Banner-1920x880-1?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
       <title>Gen Zs and millennials are redefining career progression on their own terms</title>
       <link>https://www.deloitte.com/us/en/insights/topics/talent/gen-z-and-millennial-workforce-trends.html</link>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/gen-z-and-millennial-workforce-trends.html</guid>
       <description>Article • 10-min read • Younger workers aren’t slowing down. They’re getting more intentional about where they accelerate. Read more from Deloitte's Gen Z and millennial survey.</description>
       <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/GLOB189042_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 10-min read</em></p><p>Younger workers aren’t slowing down. They’re getting more intentional about where they accelerate. Read more from Deloitte's Gen Z and millennial survey.</p>]]></content:encoded>
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/GLOB189042_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>Private capital could be the key to building a climate-resilient global economy</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/environmental-social-governance/deloitte-climate-finance-analysis.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/environmental-social-governance/deloitte-climate-finance-analysis.html</guid>
+      <description>Article • 8-min read • A Deloitte climate finance analysis explores how financing and policy reforms can help developing economies close the climate resilience funding gap.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/GLOB189109_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 8-min read</em></p><p>A Deloitte climate finance analysis explores how financing and policy reforms can help developing economies close the climate resilience funding gap.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/GLOB189109_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>South Africa’s economic recovery might be delayed, but not derailed</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/economy/emea/africa-economic-outlook.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/emea/africa-economic-outlook.html</guid>
+      <description>Article • 10-min read • South Africa’s economic recovery was gaining traction in 2026, until the global oil price shock, firmer inflation, and persistently higher policy rates changed its trajectory.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/ZA189221_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 10-min read</em></p><p>South Africa’s economic recovery was gaining traction in 2026, until the global oil price shock, firmer inflation, and persistently higher policy rates changed its trajectory.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/ZA189221_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>4 shifts are shaping technology infrastructure. How can leaders avoid creating systems they can’t change?</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/digital-infrastructure-strategy.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/digital-infrastructure-strategy.html</guid>
+      <description>Article • 8-min read • Technology architecture choices made today could create tomorrow’s legacy systems. Here’s how leaders can avoid architected disadvantage.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189101_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 8-min read</em></p><p>Technology architecture choices made today could create tomorrow’s legacy systems. Here’s how leaders can avoid architected disadvantage.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189101_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
       <title>State of the US Consumer: May–June 2026</title>
@@ -63,68 +103,12 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/consumer-tracker-collection-1?fmt=webp&amp;wid=640"/>
     </item>
     <item>
-      <title>4 shifts are shaping technology infrastructure. How can leaders avoid creating systems they can’t change?</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/digital-infrastructure-strategy.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/digital-infrastructure-strategy.html</guid>
-      <description>Article • 8-min read • Technology architecture choices made today could become tomorrow’s constraints. The future of enterprise IT may depend on understanding these 4 shifts.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189101_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 8-min read</em></p><p>Technology architecture choices made today could become tomorrow’s constraints. The future of enterprise IT may depend on understanding these 4 shifts.</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189101_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>CFO-ready, or not? 5 gaps that can quietly hold finance leaders back from advancement</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/leadership/cfo-role-finance-executives-advance.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/leadership/cfo-role-finance-executives-advance.html</guid>
-      <description>Article • 8-min read • CFOs told us these are the most common roadblocks high performers face. Understanding them can help finance execs break through and strengthen the pipeline.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/AMER189021_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 8-min read</em></p><p>CFOs told us these are the most common roadblocks high performers face. Understanding them can help finance execs break through and strengthen the pipeline.</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/AMER189021_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>3 actions top executives and board leaders can take to help safeguard data credibility</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/data-governance.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/data-governance.html</guid>
-      <description>Article • 6-min read • Scenario planning and agile governance are only as strong as the data underpinning them. How can leaders discern if the information they use can be trusted?</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188585_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 6-min read</em></p><p>Scenario planning and agile governance are only as strong as the data underpinning them. How can leaders discern if the information they use can be trusted?</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188585_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>Uncertainty clouds the US Fed’s future rate path</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/economy/spotlight/us-monetary-policy-on-interest-rates.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/spotlight/us-monetary-policy-on-interest-rates.html</guid>
-      <description>Article • 9-min read • The US Federal Reserve's monetary policy road map remains clouded by uncertainty, amid risks to jobs growth and inflation and a simultaneous AI investment boom.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/IN188414_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 9-min read</em></p><p>The US Federal Reserve's monetary policy road map remains clouded by uncertainty, amid risks to jobs growth and inflation and a simultaneous AI investment boom.</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/IN188414_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>What skills might boards need as tectonic shifts reshape the business landscape?</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/leadership/board-composition-skill-needs.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/leadership/board-composition-skill-needs.html</guid>
-      <description>Article • 2-min read • Many of the largest US-based companies’ boards are led by execs with traditional leadership backgrounds, Deloitte analysis shows. Could other capabilities strengthen this mix?</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/AMER189141_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 2-min read</em></p><p>Many of the largest US-based companies’ boards are led by execs with traditional leadership backgrounds, Deloitte analysis shows. Could other capabilities strengthen this mix?</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/AMER189141_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>When frontier AI models outpace cyber remediation: Banking's new security challenge</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/financial-services/banking-frontier-ai-models.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/financial-services/banking-frontier-ai-models.html</guid>
-      <description>Article • 6-min read • AI has accelerated banks’ ability to identify cybersecurity vulnerabilities. Here are four ways to mitigate cyber threats at machine speed.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189137_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 6-min read</em></p><p>AI has accelerated banks’ ability to identify cybersecurity vulnerabilities. Here are four ways to mitigate cyber threats at machine speed.</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189137_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>FSI Predictions 2026</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions.html</guid>
-      <description>Article • 6-min read • How emerging technologies and market shifts will transform the structure, delivery, and accessibility of financial services in the United States</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188535_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 6-min read</em></p><p>How emerging technologies and market shifts will transform the structure, delivery, and accessibility of financial services in the United States</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188535_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>Flight or fold: 2026 Deloitte Summer Travel Survey</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/transportation/2026-summer-travel-trends-survey.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/transportation/2026-summer-travel-trends-survey.html</guid>
-      <description>Article • 3-min read • Deloitte's 2026 Summer Travel Survey finds that rising travel costs are reshaping summer plans, sidelining some travelers while pushing determined vacationers to spend more to get away.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188961_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 3-min read</em></p><p>Deloitte's 2026 Summer Travel Survey finds that rising travel costs are reshaping summer plans, sidelining some travelers while pushing determined vacationers to spend more to get away.</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188961_Banner-1920x880?fmt=webp&amp;wid=640"/>
+      <title>Gen AI inside existing search engines overtakes standalone gen AI</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/gen-ai-inside-software.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/gen-ai-inside-software.html</guid>
+      <description>Article • 7-min read • Gen AI may see its user base widen faster through its incorporation into existing mainstream digital applications than through its usage on a standalone basis</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/GB188439_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 7-min read</em></p><p>Gen AI may see its user base widen faster through its incorporation into existing mainstream digital applications than through its usage on a standalone basis</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/GB188439_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
       <title>Predicting the unpredictable: How will technology change the future of work?</title>
