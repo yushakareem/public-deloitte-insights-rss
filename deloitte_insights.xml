@@ -5,7 +5,7 @@
     <link>https://www.deloitte.com/us/en/insights.html</link>
     <description>Latest Deloitte Insights articles (unofficial feed)</description>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 03:43:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 03:45:49 +0000</lastBuildDate>
     <item>
       <title>2026 Global Human Capital Trends</title>
       <link>https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html</link>
@@ -47,6 +47,14 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/glob187719-banner?fmt=webp&amp;wid=640"/>
     </item>
     <item>
+      <title>The $9 trillion knowledge exodus: How organizations can turn baby boomer retirements into a competitive advantage</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/talent/knowledge-management-plan.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/knowledge-management-plan.html</guid>
+      <description>Article • 8-min read • Baby boomer retirements are here. Is your organization ready to capture critical knowledge before it walks out the door?</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188596_Banner-1920x880-1?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 8-min read</em></p><p>Baby boomer retirements are here. Is your organization ready to capture critical knowledge before it walks out the door?</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188596_Banner-1920x880-1?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
       <title>European CFOs are more pessimistic in 2026 than at any point since the 2022 energy crisis</title>
       <link>https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/european-cfo-survey-spring-2026.html</link>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/european-cfo-survey-spring-2026.html</guid>
@@ -63,20 +71,28 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189222_Banner-1920x880-1?fmt=webp&amp;wid=640"/>
     </item>
     <item>
-      <title>Four futures for technology infrastructure: Which one are you building toward?</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/future-enterprise-architecture.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/future-enterprise-architecture.html</guid>
-      <description>Article • 8-min read • Will your enterprise technology infrastructure unlock the future, or limit it? Explore four future scenarios that can help leaders build resilience now.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189082_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 8-min read</em></p><p>Will your enterprise technology infrastructure unlock the future, or limit it? Explore four future scenarios that can help leaders build resilience now.</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189082_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
       <title>A new era of self-reliance: Navigating technology sovereignty</title>
       <link>https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/tech-sovereignty.html</link>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/tech-sovereignty.html</guid>
       <description>Article • 9-min read • Countries and regional blocs are racing to build their own sovereign tech and AI infrastructures. What are the implications? How can global businesses prepare?</description>
       <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188444_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 9-min read</em></p><p>Countries and regional blocs are racing to build their own sovereign tech and AI infrastructures. What are the implications? How can global businesses prepare?</p>]]></content:encoded>
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188444_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>Four futures for technology infrastructure: Which one are you building toward?</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/future-enterprise-architecture.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/future-enterprise-architecture.html</guid>
+      <description>Article • 8-min read • Explore the future of enterprise architecture through four potential infrastructure scenarios, and learn how leaders can build resilience and optionality now</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189082_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 8-min read</em></p><p>Explore the future of enterprise architecture through four potential infrastructure scenarios, and learn how leaders can build resilience and optionality now</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189082_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>State of the US Consumer: July–August 2026</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/economy/consumer-pulse/state-of-the-us-consumer.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/consumer-pulse/state-of-the-us-consumer.html</guid>
+      <description>Article • 3-min read • Gas price expectations are cooling, while consumer financial well-being remains firm</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/consumer-tracker-collection-1?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 3-min read</em></p><p>Gas price expectations are cooling, while consumer financial well-being remains firm</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/consumer-tracker-collection-1?fmt=webp&amp;wid=640"/>
     </item>
     <item>
       <title>North American CFOs express concerns about AI governance and risk management</title>
@@ -87,22 +103,6 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189261_Banner?fmt=webp&amp;wid=640"/>
     </item>
     <item>
-      <title>2026 Deloitte Back-to-School Survey</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/retail-distribution/back-to-school-survey.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/retail-distribution/back-to-school-survey.html</guid>
-      <description>Article • 3-min read • Deloitte's 19th Back-to-School Survey finds parents seeking value in their shopping journey amid persistently high inflation and weak consumer sentiment</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189131_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 3-min read</em></p><p>Deloitte's 19th Back-to-School Survey finds parents seeking value in their shopping journey amid persistently high inflation and weak consumer sentiment</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189131_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>Have organizational functions outlived their function?</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2026/modernizing-corporate-functions.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2026/modernizing-corporate-functions.html</guid>
-      <description>Article • 10-min read • The time has come to question the usefulness of traditional organizational pillars</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188557_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 10-min read</em></p><p>The time has come to question the usefulness of traditional organizational pillars</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188557_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
       <title>Rewiring the enterprise operating model for AI scale</title>
       <link>https://www.deloitte.com/us/en/insights/topics/technology-management/rewiring-ai-operating-model.html</link>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/rewiring-ai-operating-model.html</guid>
@@ -111,12 +111,20 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189059_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
-      <title>The $9 trillion knowledge exodus: How organizations can turn baby boomer retirements into a competitive advantage</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/talent/knowledge-management-plan.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/knowledge-management-plan.html</guid>
-      <description>Article • 8-min read • A so-called ‘silver tsunami’ could drain decades of organizational knowledge. This five-step process can help leaders capture institutional knowledge before it walks out the door.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188596_Banner-1920x880-1?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 8-min read</em></p><p>A so-called ‘silver tsunami’ could drain decades of organizational knowledge. This five-step process can help leaders capture institutional knowledge before it walks out the door.</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188596_Banner-1920x880-1?fmt=webp&amp;wid=640"/>
+      <title>2026 Deloitte Back-to-School Survey</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/retail-distribution/back-to-school-survey.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/retail-distribution/back-to-school-survey.html</guid>
+      <description>Article • 3-min read • Deloitte's 19th Back-to-School Survey finds parents seeking value in their shopping journey amid persistently high inflation and weak consumer sentiment</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189131_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 3-min read</em></p><p>Deloitte's 19th Back-to-School Survey finds parents seeking value in their shopping journey amid persistently high inflation and weak consumer sentiment</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189131_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>FSI Predictions 2026</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions.html</guid>
+      <description>Article • 6-min read • How emerging technologies and market shifts will transform the structure, delivery, and accessibility of financial services in the United States</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188535_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 6-min read</em></p><p>How emerging technologies and market shifts will transform the structure, delivery, and accessibility of financial services in the United States</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188535_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
       <title>2025 Smart Manufacturing and Operations Survey: Navigating challenges to implementation</title>
