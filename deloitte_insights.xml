@@ -5,7 +5,7 @@
     <link>https://www.deloitte.com/us/en/insights.html</link>
     <description>Latest Deloitte Insights articles (unofficial feed)</description>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 03:48:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:52:52 +0000</lastBuildDate>
     <item>
       <title>2026 Global Human Capital Trends</title>
       <link>https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html</link>
@@ -47,6 +47,14 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/glob187719-banner?fmt=webp&amp;wid=640"/>
     </item>
     <item>
+      <title>The next tech infrastructure advantage is intelligence orchestration</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/enterprise-ai-control-plane.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/enterprise-ai-control-plane.html</guid>
+      <description>Article • 12-min read • How can an enterprise control plane help leaders orchestrate AI at scale? See what enterprise AI governance may require next.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189083_Banner-1920x880_V2?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 12-min read</em></p><p>How can an enterprise control plane help leaders orchestrate AI at scale? See what enterprise AI governance may require next.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189083_Banner-1920x880_V2?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
       <title>The $9 trillion knowledge exodus: How organizations can turn baby boomer retirements into a competitive advantage</title>
       <link>https://www.deloitte.com/us/en/insights/topics/talent/knowledge-management-plan.html</link>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/knowledge-management-plan.html</guid>
@@ -63,11 +71,19 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/EMEA189338_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
+      <title>Staying relevant in a world that won’t sit still</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2026/creating-an-adaptable-workforce.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2026/creating-an-adaptable-workforce.html</guid>
+      <description>Article • 11-min read • Staying relevant at speed requires organizational adaptability. Here's how leaders can cultivate an adaptive workforce in the flow of work.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188563_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 11-min read</em></p><p>Staying relevant at speed requires organizational adaptability. Here's how leaders can cultivate an adaptive workforce in the flow of work.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188563_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
       <title>AI adoption to adaptation: How a new change approach can build the human behaviors needed for AI</title>
       <link>https://www.deloitte.com/us/en/insights/topics/talent/ai-adoption-to-ai-adaptation.html</link>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/ai-adoption-to-ai-adaptation.html</guid>
-      <description>Article • 14-min read • What if your AI adoption strategy is just teaching workers to fake transformation faster? Here's how organizations can measure adaptation, not activity.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189222_Banner-1920x880-1?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 14-min read</em></p><p>What if your AI adoption strategy is just teaching workers to fake transformation faster? Here's how organizations can measure adaptation, not activity.</p>]]></content:encoded>
+      <description>Article • 14-min read • AI adoption is easy to prove and easy to fake. But these three behaviors show whether workers are actually adapting to AI—changing how they think, decide, and work.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189222_Banner-1920x880-1?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 14-min read</em></p><p>AI adoption is easy to prove and easy to fake. But these three behaviors show whether workers are actually adapting to AI—changing how they think, decide, and work.</p>]]></content:encoded>
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189222_Banner-1920x880-1?fmt=webp&amp;wid=640"/>
     </item>
     <item>
@@ -95,14 +111,6 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/consumer-tracker-collection-1?fmt=webp&amp;wid=640"/>
     </item>
     <item>
-      <title>North American CFOs express concerns about AI governance and risk management</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/2q-2026-cfo-signals-survey.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/2q-2026-cfo-signals-survey.html</guid>
-      <description>Article • 3-min read • Respondents to the second-quarter 2026 CFO Signals survey on AI governance are most concerned about cost uncertainty, transparency, and managing risks</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189261_Banner?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 3-min read</em></p><p>Respondents to the second-quarter 2026 CFO Signals survey on AI governance are most concerned about cost uncertainty, transparency, and managing risks</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189261_Banner?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
       <title>Rewiring the enterprise operating model for AI scale</title>
       <link>https://www.deloitte.com/us/en/insights/topics/technology-management/rewiring-ai-operating-model.html</link>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/rewiring-ai-operating-model.html</guid>
@@ -111,28 +119,12 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189059_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
-      <title>2026 Deloitte Back-to-School Survey</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/retail-distribution/back-to-school-survey.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/retail-distribution/back-to-school-survey.html</guid>
-      <description>Article • 3-min read • Deloitte's 19th Back-to-School Survey finds parents seeking value in their shopping journey amid persistently high inflation and weak consumer sentiment</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189131_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 3-min read</em></p><p>Deloitte's 19th Back-to-School Survey finds parents seeking value in their shopping journey amid persistently high inflation and weak consumer sentiment</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189131_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>FSI Predictions 2026</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions.html</guid>
-      <description>Article • 6-min read • How emerging technologies and market shifts will transform the structure, delivery, and accessibility of financial services in the United States</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188535_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 6-min read</em></p><p>How emerging technologies and market shifts will transform the structure, delivery, and accessibility of financial services in the United States</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188535_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>2025 Smart Manufacturing and Operations Survey: Navigating challenges to implementation</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/2025-smart-manufacturing-survey.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/2025-smart-manufacturing-survey.html</guid>
-      <description>Article • 12-min read • Deloitte’s survey of 600 executives shows that as factories and operations get smarter, manufacturers work to overcome obstacles in talent acquisition, manage complex transformations, and mitigate operational risk</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US187578_Banner-1920x880-1?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 12-min read</em></p><p>Deloitte’s survey of 600 executives shows that as factories and operations get smarter, manufacturers work to overcome obstacles in talent acquisition, manage complex transformations, and mitigate operational risk</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US187578_Banner-1920x880-1?fmt=webp&amp;wid=640"/>
+      <title>Digital Media Trends</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/2025.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/2025.html</guid>
+      <description>Article • 14-min read • While studios and streaming providers compete, tougher competition is coming from social video platforms that are hyperscale and hyper-capitalized</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188064_Social:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 14-min read</em></p><p>While studios and streaming providers compete, tougher competition is coming from social video platforms that are hyperscale and hyper-capitalized</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188064_Social:1200-x-627"/>
     </item>
     <item>
       <title>In the gen AI economy, consumers want innovation they can trust</title>
