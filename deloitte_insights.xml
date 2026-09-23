@@ -5,7 +5,7 @@
     <link>https://www.deloitte.com/us/en/insights.html</link>
     <description>Latest Deloitte Insights articles (unofficial feed)</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 08:17:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 08:18:56 +0000</lastBuildDate>
     <item>
       <title>2026 Global Human Capital Trends</title>
       <link>https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html</link>
@@ -74,17 +74,17 @@
       <title>The next tech infrastructure advantage is intelligence orchestration</title>
       <link>https://www.deloitte.com/us/en/insights/topics/technology-management/enterprise-ai-control-plane.html</link>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/enterprise-ai-control-plane.html</guid>
-      <description>Article • 12-min read • How can an enterprise control plane help leaders orchestrate AI at scale? See what enterprise AI governance may require next.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189083_Banner-1920x880_V2?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 12-min read</em></p><p>How can an enterprise control plane help leaders orchestrate AI at scale? See what enterprise AI governance may require next.</p>]]></content:encoded>
+      <description>Article • 12-min read • Enterprise AI infrastructure needs an enterprise control plane to coordinate models, agents, workloads, decisions, and governance at scale</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189083_Banner-1920x880_V2?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 12-min read</em></p><p>Enterprise AI infrastructure needs an enterprise control plane to coordinate models, agents, workloads, decisions, and governance at scale</p>]]></content:encoded>
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189083_Banner-1920x880_V2?fmt=webp&amp;wid=640"/>
     </item>
     <item>
-      <title>From jobs to skills to outcomes: Rethinking how work gets done</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/talent/future-of-workforce-planning/planning-work-outcomes.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/future-of-workforce-planning/planning-work-outcomes.html</guid>
-      <description>Article • 15-min read • Workforce planning is moving toward a future where outcomes define the work. How can organizations embrace task and skills-based planning now, while preparing for what comes next?</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188496_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 15-min read</em></p><p>Workforce planning is moving toward a future where outcomes define the work. How can organizations embrace task and skills-based planning now, while preparing for what comes next?</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188496_Banner-1920x880?fmt=webp&amp;wid=640"/>
+      <title>Rethinking the CISO role for an AI-saturated enterprise</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/ai-changing-ciso-role.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/ai-changing-ciso-role.html</guid>
+      <description>Article • 9-min read • How is AI reshaping the CISO role? Explore how CISOs can help clarify accountability, governance, and risk ownership across the enterprise.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189075_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 9-min read</em></p><p>How is AI reshaping the CISO role? Explore how CISOs can help clarify accountability, governance, and risk ownership across the enterprise.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189075_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
       <title>Video podcasts dominate: Opportunity for brands, competition for traditional video</title>
@@ -95,36 +95,20 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/IN188450_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
-      <title>In the gen AI economy, consumers want innovation they can trust</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/telecommunications/connectivity-mobile-trends-survey.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/telecommunications/connectivity-mobile-trends-survey.html</guid>
-      <description>Article • 15-min read • By pairing strong data responsibility with bold innovation, tech companies can win greater trust, loyalty, and spending</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188507_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 15-min read</em></p><p>By pairing strong data responsibility with bold innovation, tech companies can win greater trust, loyalty, and spending</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188507_Banner-1920x880?fmt=webp&amp;wid=640"/>
+      <title>Forecasting the rise of push payment scams—the fraud consumers are tricked into authorizing</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/financial-services/authorized-push-payment-fraud.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/financial-services/authorized-push-payment-fraud.html</guid>
+      <description>Article • 7-min read • Deloitte estimates US losses from authorized push payment fraud could surge to nearly $15 billion by 2028. Who’s most vulnerable, and how can banks shore up their defenses?</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188314_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 7-min read</em></p><p>Deloitte estimates US losses from authorized push payment fraud could surge to nearly $15 billion by 2028. Who’s most vulnerable, and how can banks shore up their defenses?</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188314_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
-      <title>Four futures for technology infrastructure: Which one are you building toward?</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/future-enterprise-architecture.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/future-enterprise-architecture.html</guid>
-      <description>Article • 8-min read • Explore the future of enterprise architecture through four potential infrastructure scenarios, and learn how leaders can build resilience and optionality now</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189082_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 8-min read</em></p><p>Explore the future of enterprise architecture through four potential infrastructure scenarios, and learn how leaders can build resilience and optionality now</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189082_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>The $9 trillion knowledge exodus: How organizations can turn baby boomer retirements into a competitive advantage</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/talent/knowledge-management-plan.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/knowledge-management-plan.html</guid>
-      <description>Article • 8-min read • A so-called ‘silver tsunami’ could drain decades of organizational knowledge. This five-step process can help leaders capture institutional knowledge before it walks out the door.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188596_Banner-1920x880-1?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 8-min read</em></p><p>A so-called ‘silver tsunami’ could drain decades of organizational knowledge. This five-step process can help leaders capture institutional knowledge before it walks out the door.</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188596_Banner-1920x880-1?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>AI adoption to adaptation: How a new change approach can build the human behaviors needed for AI</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/talent/ai-adoption-to-ai-adaptation.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/ai-adoption-to-ai-adaptation.html</guid>
-      <description>Article • 14-min read • AI adoption is easy to prove and easy to fake. But these three behaviors show whether workers are actually adapting to AI—changing how they think, decide, and work.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189222_Banner-1920x880-1?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 14-min read</em></p><p>AI adoption is easy to prove and easy to fake. But these three behaviors show whether workers are actually adapting to AI—changing how they think, decide, and work.</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189222_Banner-1920x880-1?fmt=webp&amp;wid=640"/>
+      <title>Digital Media Trends</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/2025.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/2025.html</guid>
+      <description>Article • 14-min read • While studios and streaming providers compete, tougher competition is coming from social video platforms that are hyperscale and hyper-capitalized</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188064_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 14-min read</em></p><p>While studios and streaming providers compete, tougher competition is coming from social video platforms that are hyperscale and hyper-capitalized</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188064_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
       <title>2025 Smart Manufacturing and Operations Survey: Navigating challenges to implementation</title>
@@ -135,36 +119,20 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US187578_Banner-1920x880-1?fmt=webp&amp;wid=640"/>
     </item>
     <item>
-      <title>Navigating the AI-enabled workforce shift: From managing exits to orchestrating ecosystems</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/from-exits-to-ecosystems.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/business-strategy-growth/from-exits-to-ecosystems.html</guid>
-      <description>Article • 14-min read • As workforce disruption accelerates, organizations can unlock innovation and agility by building ramps to support worker transitions and keep skilled alumni close</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/SG188747_social-1920x880:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 14-min read</em></p><p>As workforce disruption accelerates, organizations can unlock innovation and agility by building ramps to support worker transitions and keep skilled alumni close</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/SG188747_social-1920x880:1200-x-627"/>
+      <title>Getting human and machine relationships right</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2026/human-ai-interaction-design.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2026/human-ai-interaction-design.html</guid>
+      <description>Article • 9-min read • To multiply human potential with AI, organizations can deliberately design human and machine interactions</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/GLOB188558_Social:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 9-min read</em></p><p>To multiply human potential with AI, organizations can deliberately design human and machine interactions</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/GLOB188558_Social:1200-x-627"/>
     </item>
     <item>
-      <title>How the right mix of C-suite leadership can drive outsized AI returns</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/digital-transformation/c-suite-leadership-ai-returns.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/digital-transformation/c-suite-leadership-ai-returns.html</guid>
-      <description>Article • 7-min read • Deloitte’s predictive modeling reveals that when top executives share tech investment decisions, organizations could see stronger results—a case for a new kind of leadership</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188628_Social:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 7-min read</em></p><p>Deloitte’s predictive modeling reveals that when top executives share tech investment decisions, organizations could see stronger results—a case for a new kind of leadership</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188628_Social:1200-x-627"/>
-    </item>
-    <item>
-      <title>Changing inflation dynamics pose new risks for the US economy</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/economy/spotlight/us-inflation-dynamics-effect-us-economy.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/spotlight/us-inflation-dynamics-effect-us-economy.html</guid>
-      <description>Article • 9-min read • The March 2026 Economics Insider analyzes changing US inflation trends, their possible drivers, and their effects on US consumer spending</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/IN188412_Social-1:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 9-min read</em></p><p>The March 2026 Economics Insider analyzes changing US inflation trends, their possible drivers, and their effects on US consumer spending</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/IN188412_Social-1:1200-x-627"/>
-    </item>
-    <item>
-      <title>AI goes physical: Navigating the convergence of AI and robotics</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html</guid>
-      <description>Article • 15-min read • Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188547_Social:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 15-min read</em></p><p>Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188547_Social:1200-x-627"/>
+      <title>Tech decisions can drive big earnings-per-share gains</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/tech-decisions-eps-growth.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/tech-decisions-eps-growth.html</guid>
+      <description>Article • 13-min read • Under pressure to move faster on tech? Deloitte analysis shows how data, AI, and IT decisions can materially accelerate EPS growth.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US187929_Social:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 13-min read</em></p><p>Under pressure to move faster on tech? Deloitte analysis shows how data, AI, and IT decisions can materially accelerate EPS growth.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US187929_Social:1200-x-627"/>
     </item>
     <item>
       <title>Has the CISO finally been accepted as a key strategic player?</title>
