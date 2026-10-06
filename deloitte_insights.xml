@@ -5,7 +5,7 @@
     <link>https://www.deloitte.com/us/en/insights.html</link>
     <description>Latest Deloitte Insights articles (unofficial feed)</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 10:03:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:48:43 +0000</lastBuildDate>
     <item>
       <title>2026 Global Human Capital Trends</title>
       <link>https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html</link>
@@ -47,6 +47,14 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/glob187719-banner?fmt=webp&amp;wid=640"/>
     </item>
     <item>
+      <title>Reshaping operations for a new era of agentic AI transformation: 4 leadership priorities for COOs</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/coo-agentic-ai-transformation.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/coo-agentic-ai-transformation.html</guid>
+      <description>Article • 5-min read • COOs may be tasked with reimagining operating models and organizational structures to help drive value through agentic AI. Which strategies could work best?</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/GLOB189172_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 5-min read</em></p><p>COOs may be tasked with reimagining operating models and organizational structures to help drive value through agentic AI. Which strategies could work best?</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/GLOB189172_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
       <title>Deloitte Finance Trends 2027: Shaping the next era of stakeholder value</title>
       <link>https://www.deloitte.com/us/en/insights/topics/leadership/finance-trends-leadership.html</link>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/leadership/finance-trends-leadership.html</guid>
@@ -66,9 +74,17 @@
       <title>Environmental stewardship for leaner AI agent systems: The case for architectural restraint</title>
       <link>https://www.deloitte.com/us/en/insights/topics/emerging-technologies/environmentally-responsible-ai.html</link>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/emerging-technologies/environmentally-responsible-ai.html</guid>
-      <description>Article • 9-min read • Architectural restraint can help AI agents reduce unnecessary computation, use computing resources more efficiently, and strengthen governance.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189340_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 9-min read</em></p><p>Architectural restraint can help AI agents reduce unnecessary computation, use computing resources more efficiently, and strengthen governance.</p>]]></content:encoded>
+      <description>Article • 9-min read • Responsible AI calls for disciplined system design that reduces unnecessary computation and uses computing resources more efficiently</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189340_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 9-min read</em></p><p>Responsible AI calls for disciplined system design that reduces unnecessary computation and uses computing resources more efficiently</p>]]></content:encoded>
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189340_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>Long-term vs. one-off: A new take on brand-creator collaborations</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/technology/long-term-creator-partnerships.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/long-term-creator-partnerships.html</guid>
+      <description>Article • 5-min read • Creators deliver purchasing influence that can double buyer likelihood. For brands, the opportunity may be in sustained partnerships, not one-time campaigns.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189262_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 5-min read</em></p><p>Creators deliver purchasing influence that can double buyer likelihood. For brands, the opportunity may be in sustained partnerships, not one-time campaigns.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189262_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
       <title>The next tech infrastructure advantage is intelligence orchestration</title>
@@ -87,20 +103,12 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189075_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
-      <title>Video podcasts dominate: Opportunity for brands, competition for traditional video</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/video-podcasts-reach.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/video-podcasts-reach.html</guid>
-      <description>Article • 7-min read • Podcasting is booming as a video-first, multilingual medium. It may help brands reach global audiences, while occupying a larger share of viewers’ screen time.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/IN188450_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 7-min read</em></p><p>Podcasting is booming as a video-first, multilingual medium. It may help brands reach global audiences, while occupying a larger share of viewers’ screen time.</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/IN188450_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>Forecasting the rise of push payment scams—the fraud consumers are tricked into authorizing</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/financial-services/authorized-push-payment-fraud.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/financial-services/authorized-push-payment-fraud.html</guid>
-      <description>Article • 7-min read • Deloitte estimates US losses from authorized push payment fraud could surge to nearly $15 billion by 2028. Who’s most vulnerable, and how can banks shore up their defenses?</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188314_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 7-min read</em></p><p>Deloitte estimates US losses from authorized push payment fraud could surge to nearly $15 billion by 2028. Who’s most vulnerable, and how can banks shore up their defenses?</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188314_Banner-1920x880?fmt=webp&amp;wid=640"/>
+      <title>AI investments keep US economic growth in gear, for now</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html</guid>
+      <description>Article • 6-min read • AI investments keep US economic growth in gear. Deloitte’s economic forecast sees the AI buildout lifting productivity despite near-term headwinds.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189189_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 6-min read</em></p><p>AI investments keep US economic growth in gear. Deloitte’s economic forecast sees the AI buildout lifting productivity despite near-term headwinds.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189189_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
       <title>Digital Media Trends</title>
@@ -109,14 +117,6 @@
       <description>Article • 14-min read • While studios and streaming providers compete, tougher competition is coming from social video platforms that are hyperscale and hyper-capitalized</description>
       <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188064_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 14-min read</em></p><p>While studios and streaming providers compete, tougher competition is coming from social video platforms that are hyperscale and hyper-capitalized</p>]]></content:encoded>
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188064_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>2025 Smart Manufacturing and Operations Survey: Navigating challenges to implementation</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/2025-smart-manufacturing-survey.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/2025-smart-manufacturing-survey.html</guid>
-      <description>Article • 12-min read • Deloitte’s survey of 600 executives shows that as factories and operations get smarter, manufacturers work to overcome obstacles in talent acquisition, manage complex transformations, and mitigate operational risk</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US187578_Banner-1920x880-1?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 12-min read</em></p><p>Deloitte’s survey of 600 executives shows that as factories and operations get smarter, manufacturers work to overcome obstacles in talent acquisition, manage complex transformations, and mitigate operational risk</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US187578_Banner-1920x880-1?fmt=webp&amp;wid=640"/>
     </item>
     <item>
       <title>Getting human and machine relationships right</title>
