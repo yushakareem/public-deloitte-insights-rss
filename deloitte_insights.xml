@@ -5,7 +5,7 @@
     <link>https://www.deloitte.com/us/en/insights.html</link>
     <description>Latest Deloitte Insights articles (unofficial feed)</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 08:13:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:18:25 +0000</lastBuildDate>
     <item>
       <title>2026 Global Human Capital Trends</title>
       <link>https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html</link>
@@ -47,6 +47,14 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/glob187719-banner?fmt=webp&amp;wid=640"/>
     </item>
     <item>
+      <title>2026 Deloitte Holiday Retail Survey</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/retail-distribution/holiday-retail-sales-consumer-survey.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/retail-distribution/holiday-retail-sales-consumer-survey.html</guid>
+      <description>Article • 3-min read • Holiday shoppers are keeping spirits bright, as younger consumers, value-seeking behavior, and early-season sales present opportunities for retailers</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/AMER189387_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 3-min read</em></p><p>Holiday shoppers are keeping spirits bright, as younger consumers, value-seeking behavior, and early-season sales present opportunities for retailers</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/AMER189387_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
       <title>A treat of a tradition: Consumers embrace the Halloween spirit</title>
       <link>https://www.deloitte.com/us/en/insights/industry/retail-distribution/halloween-survey-consumer-spending.html</link>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/retail-distribution/halloween-survey-consumer-spending.html</guid>
@@ -55,12 +63,36 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/AMER189384_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
+      <title>Fund, scale, or stop? AI is exposing the limits of traditional approaches to tech investment.</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/ai-investment-strategy.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/ai-investment-strategy.html</guid>
+      <description>Article • 9-min read • Which AI investments should CIOs fund, scale, or stop? A portfolio approach to enterprise technology strategy can help guide those decisions.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189058_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 9-min read</em></p><p>Which AI investments should CIOs fund, scale, or stop? A portfolio approach to enterprise technology strategy can help guide those decisions.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189058_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
       <title>2026 Future of Infrastructure Survey: How interconnected systems are reshaping infrastructure management</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/government-public-sector-services/future-of-infrastructure.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/government-public-sector-services/future-of-infrastructure.html</guid>
+      <link>https://www.deloitte.com/us/en/insights/industry/government-public-sector-services/future-of-infrastructure/2026.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/government-public-sector-services/future-of-infrastructure/2026.html</guid>
       <description>Article • 7-min read • As physical and digital assets converge in the systems era, infrastructure should be planned, financed, protected, and operated as a whole</description>
       <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/GLOB188365_Banner?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 7-min read</em></p><p>As physical and digital assets converge in the systems era, infrastructure should be planned, financed, protected, and operated as a whole</p>]]></content:encoded>
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/GLOB188365_Banner?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>Frontier AI agents are testing enterprise control limits: 4 questions for leaders</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/frontier-ai-challenges-enterprise-controls.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/frontier-ai-challenges-enterprise-controls.html</guid>
+      <description>Article • 9-min read • Recent frontier AI incidents reveal how autonomous systems can bypass intended controls. Explore four questions leaders can ask to strengthen AI governance.</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/GLOB189478_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 9-min read</em></p><p>Recent frontier AI incidents reveal how autonomous systems can bypass intended controls. Explore four questions leaders can ask to strengthen AI governance.</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/GLOB189478_Banner-1920x880?fmt=webp&amp;wid=640"/>
+    </item>
+    <item>
+      <title>More Gen Z borrowers report carrying credit card debt while investing in stocks</title>
+      <link>https://www.deloitte.com/us/en/insights/industry/financial-services/gen-z-borrowers-balance-debt-investing.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/financial-services/gen-z-borrowers-balance-debt-investing.html</guid>
+      <description>Article • 4-min read • A tougher entry-level job market and easier access to credit and investing apps are among the forces reshaping how Gen Z manages money</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189390_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 4-min read</em></p><p>A tougher entry-level job market and easier access to credit and investing apps are among the forces reshaping how Gen Z manages money</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189390_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
       <title>Building more collaborative CEO and board relationships may hinge on 3 factors, CEOs say</title>
@@ -87,52 +119,28 @@
       <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189340_Banner-1920x880?fmt=webp&amp;wid=640"/>
     </item>
     <item>
-      <title>State of the US Consumer: September–October 2026</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/economy/consumer-pulse/state-of-the-us-consumer.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/consumer-pulse/state-of-the-us-consumer.html</guid>
-      <description>Article • 3-min read • Financial well-being stabilizes as spending intentions recover some ground</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/consumer-tracker-collection-1?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 3-min read</em></p><p>Financial well-being stabilizes as spending intentions recover some ground</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/consumer-tracker-collection-1?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>Deloitte Finance Trends 2027: Shaping the next era of stakeholder value</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/leadership/finance-trends-leadership.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/leadership/finance-trends-leadership.html</guid>
-      <description>Article • 13-min read • In this year’s Finance Trends report, Deloitte finds finance leaders moving deeper into AI and technology decisions—and expanding their teams to help steer the change</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188966_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 13-min read</em></p><p>In this year’s Finance Trends report, Deloitte finds finance leaders moving deeper into AI and technology decisions—and expanding their teams to help steer the change</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188966_Banner-1920x880?fmt=webp&amp;wid=640"/>
+      <title>The next tech infrastructure advantage is intelligence orchestration</title>
+      <link>https://www.deloitte.com/us/en/insights/topics/technology-management/enterprise-ai-control-plane.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/enterprise-ai-control-plane.html</guid>
+      <description>Article • 12-min read • Enterprise AI infrastructure needs an enterprise control plane to coordinate models, agents, workloads, decisions, and governance at scale</description>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189083_Banner-1920x880_V2?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 12-min read</em></p><p>Enterprise AI infrastructure needs an enterprise control plane to coordinate models, agents, workloads, decisions, and governance at scale</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189083_Banner-1920x880_V2?fmt=webp&amp;wid=640"/>
     </item>
     <item>
       <title>How will AI agents fit into the human workplace?</title>
       <link>https://www.deloitte.com/us/en/insights/topics/technology-management/ai-agents-human-workplace.html</link>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/technology-management/ai-agents-human-workplace.html</guid>
       <description>Article • 10-min read • Explore how the future of work with AI could evolve as agentic systems reshape jobs, governance, trust, and organizational strategy</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/AMER189112_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 10-min read</em></p><p>Explore how the future of work with AI could evolve as agentic systems reshape jobs, governance, trust, and organizational strategy</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/AMER189112_Banner-1920x880?fmt=webp&amp;wid=640"/>
-    </item>
-    <item>
-      <title>AI investments keep US economic growth in gear, for now</title>
-      <link>https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html</guid>
-      <description>Article • 6-min read • AI investments keep US economic growth in gear. Deloitte’s economic forecast sees the AI buildout lifting productivity despite near-term headwinds.</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US189189_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 6-min read</em></p><p>AI investments keep US economic growth in gear. Deloitte’s economic forecast sees the AI buildout lifting productivity despite near-term headwinds.</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US189189_Banner-1920x880?fmt=webp&amp;wid=640"/>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/AMER189112_Social:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 10-min read</em></p><p>Explore how the future of work with AI could evolve as agentic systems reshape jobs, governance, trust, and organizational strategy</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/AMER189112_Social:1200-x-627"/>
     </item>
     <item>
       <title>2025 Smart Manufacturing and Operations Survey: Navigating challenges to implementation</title>
       <link>https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/2025-smart-manufacturing-survey.html</link>
       <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/2025-smart-manufacturing-survey.html</guid>
       <description>Article • 12-min read • Deloitte’s survey of 600 executives shows that as factories and operations get smarter, manufacturers work to overcome obstacles in talent acquisition, manage complex transformations, and mitigate operational risk</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US187578_Social:1200-x-627" alt="" style="max-width:100%"/><p><em>Article • 12-min read</em></p><p>Deloitte’s survey of 600 executives shows that as factories and operations get smarter, manufacturers work to overcome obstacles in talent acquisition, manage complex transformations, and mitigate operational risk</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US187578_Social:1200-x-627"/>
-    </item>
-    <item>
-      <title>FSI Predictions 2026</title>
-      <link>https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions.html</guid>
-      <description>Article • 6-min read • How emerging technologies and market shifts will transform the structure, delivery, and accessibility of financial services in the United States</description>
-      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US188535_Banner-1920x880?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 6-min read</em></p><p>How emerging technologies and market shifts will transform the structure, delivery, and accessibility of financial services in the United States</p>]]></content:encoded>
-      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US188535_Banner-1920x880?fmt=webp&amp;wid=640"/>
+      <content:encoded><![CDATA[<img src="https://media.deloitte.com/is/image/deloitte/US187578_Banner-1920x880-1?fmt=webp&wid=640" alt="" style="max-width:100%"/><p><em>Article • 12-min read</em></p><p>Deloitte’s survey of 600 executives shows that as factories and operations get smarter, manufacturers work to overcome obstacles in talent acquisition, manage complex transformations, and mitigate operational risk</p>]]></content:encoded>
+      <media:thumbnail url="https://media.deloitte.com/is/image/deloitte/US187578_Banner-1920x880-1?fmt=webp&amp;wid=640"/>
     </item>
     <item>
       <title>Getting human and machine relationships right</title>
